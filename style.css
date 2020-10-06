@@ -44,7 +44,7 @@
 #section1 {
     width: 100%; 
     height:100vh; 
-    background-image: url('images/notebook-1280538_1920.jpg');
+    background-image: url('./images/notebook-1280538_1920.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -103,7 +103,7 @@
     transform: translate(-50%, -50%);
     width: 100px;
     height: 100px; 
-    background-image: url('/images/scroll.svg');
+    background-image: url('./images/scroll.svg');
     background-size: cover; 
 }
 
@@ -161,7 +161,7 @@
     padding: 1rem; 
     padding-top: 6%;
     box-sizing: border-box;
-    background-image: url('/images/computer-2982270_1920.jpg');
+    background-image: url('./images/computer-2982270_1920.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -196,7 +196,7 @@
     position: relative;
     padding-top: 6%;
     width: 100%;
-    background-image: url('/images/cup-of-coffee-1280537_1920.jpg');
+    background-image: url('./images/cup-of-coffee-1280537_1920.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
